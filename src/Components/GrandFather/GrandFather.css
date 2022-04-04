@@ -1,0 +1,12 @@
+.grandfather{
+    border: 2px solid goldenrod;
+    margin: 5px 10px;
+    padding:5px;
+    border-radius: 10px;
+}
+.grandfather div{
+    border: 2px solid goldenrod;
+    margin: 10px;
+    padding:5px;
+    border-radius: 10px;
+}

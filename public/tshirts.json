@@ -1,0 +1,42 @@
+[
+    {
+      "id": "624a8036a2fc129f8b2c3dcf",
+      "index": 0,
+      "picture": "https://m.media-amazon.com/images/I/91ieWhKe9AL._AC_UL320_.jpg",
+      "name": "Bobbie Acosta",
+      "price": 40,
+      "gender": "male"
+    },
+    {
+      "id": "624a8036823b59321fa3a690",
+      "index": 1,
+      "picture": "https://m.media-amazon.com/images/I/71EWvtDDgRL._AC_UL320_.jpg",
+      "name": "Lisa Walters",
+      "price": 24,
+      "gender": "female"
+    },
+    {
+      "id": "624a803628e554e3f0c4c104",
+      "index": 2,
+      "picture": "https://m.media-amazon.com/images/I/71FN9ftX4JL._AC_UL320_.jpg",
+      "name": "Tricia Douglas",
+      "price": 39,
+      "gender": "female"
+    },
+    {
+      "id": "624a80367df8952a4bbcdaeb",
+      "index": 3,
+      "picture": "https://m.media-amazon.com/images/I/717PrLJ-HMS._AC_UL320_.jpg",
+      "name": "Mullins Bartlett",
+      "price": 37,
+      "gender": "male"
+    },
+    {
+      "id": "624a8036fef3c16768e2ea26",
+      "index": 4,
+      "picture": "https://m.media-amazon.com/images/I/715gImw8eWL._AC_UL320_.jpg",
+      "name": "Oconnor Holland",
+      "price": 33,
+      "gender": "male"
+    }
+  ]
